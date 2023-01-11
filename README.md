@@ -20,3 +20,11 @@ Utilizando npx
 Vá pegar um café ou beba uma água que isso demora um pouco
 
 Após isso, seu projeto já está criado!
+
+## Para iniciar o projeto
+
+Utilizando yarn
+### `yarn start`
+
+Utilizando npm
+### `npm start`
