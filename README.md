@@ -28,3 +28,25 @@ Utilizando yarn
 
 Utilizando npm
 ### `npm start`
+
+## Utilizando Vite.js para criação do projeto React.js
+
+Utilizando yarn
+### `yarn create vite my-react-app --template react`
+
+Utilizando npm 6.x
+### `npm create vite@latest my-react-app --template react`
+
+Utilizando npm 7.x
+### `npm create vite@latest my-react-app -- --template react`
+
+Logo o projeto ser criado dê o comando:
+### `yarn install || npm install`
+
+## Para iniciar o projeto
+
+Utilizando yarn
+### `yarn vite`
+
+Utilizando npm
+### `npm vite`
