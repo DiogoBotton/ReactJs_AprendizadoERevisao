@@ -50,3 +50,8 @@ Utilizando yarn
 
 Utilizando npm
 ### `npm vite`
+
+## Utilizando React.js com Next.js
+
+Utilizando npx
+### `npx create-next-app nome-app`
