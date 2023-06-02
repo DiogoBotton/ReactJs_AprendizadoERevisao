@@ -51,7 +51,15 @@ Utilizando yarn
 Utilizando npm
 ### `npm vite`
 
-## Utilizando React.js com Next.js
+## Instalação React.js com Next.js
 
 Utilizando npx
 ### `npx create-next-app nome-app`
+
+## Para iniciar o projeto
+
+Utilizando next
+### `next dev`
+
+Utilizando yarn
+### `yarn dev`
